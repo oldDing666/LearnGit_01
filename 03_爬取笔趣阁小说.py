@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-@author: DingFuBo
-@email: 1101623201@qq.com
+@author:
+@email:
 @file: 03_爬取笔趣阁小说.py
 @project : 爬虫练习
 @ide    : PyCharm
