@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-@author: DingFuBo
-@email: 1101623201@qq.com
+@author: 
+@email: 
 @file: 08_爬取斗图啦表情包.py
 @project : 爬虫练习
 @ide    : PyCharm
